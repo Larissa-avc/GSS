@@ -77,7 +77,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-We reject the hypothesis because the known P value is lower than 0.05 so they are not the same. Fisher exact test shows that the odds are 2.27.
+We reject the hypothesis because the known P value is lower than 0.05 so they are not the same. Fisher exact test shows that the odds are 2.27:1. One is more likely to to be in favor of a capital punishment if you are a gun owner.
 
 #  Question 2
 
