@@ -33,10 +33,9 @@ First question - Is opinion on the death penalty (CAPPUN) independent of gun own
 ## Results
 Question is gun ownership independent of opinion on capital punishment?
 
-$H_0$: Gun ownership and opinion on capital punishment are not related
+$H_0$: Gun ownership and opinion on capital punishment are not related.
 
-$H_A$: Gun ownership and opinion on captial punishment are related
-own gun ~ cappun both are catagegorical thus is use cat ~ cat
+$H_A$: Gun ownership and opinion on captial punishment are related.
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
@@ -90,7 +89,9 @@ Is there a difference in years of education (EDUC) between the those who did or 
 
 ##Results
 
-there is no relation between the years of education of those who did and did not vote in 2012
+$H_0$: There is no relation between the years of education of those who did and did not vote in 2012.
+
+$H_A$: There is relation between the years of education of those who did and did not vote in 2012. 
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
